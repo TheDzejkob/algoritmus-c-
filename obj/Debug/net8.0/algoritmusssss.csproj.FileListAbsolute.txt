@@ -1,0 +1,14 @@
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\bin\Debug\net8.0\algoritmusssss.exe
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\bin\Debug\net8.0\algoritmusssss.deps.json
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\bin\Debug\net8.0\algoritmusssss.runtimeconfig.json
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\bin\Debug\net8.0\algoritmusssss.dll
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\bin\Debug\net8.0\algoritmusssss.pdb
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\obj\Debug\net8.0\algoritmusssss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\obj\Debug\net8.0\algoritmusssss.AssemblyInfoInputs.cache
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\obj\Debug\net8.0\algoritmusssss.AssemblyInfo.cs
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\obj\Debug\net8.0\algoritmusssss.csproj.CoreCompileInputs.cache
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\obj\Debug\net8.0\algoritmusssss.dll
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\obj\Debug\net8.0\refint\algoritmusssss.dll
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\obj\Debug\net8.0\algoritmusssss.pdb
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\obj\Debug\net8.0\algoritmusssss.genruntimeconfig.cache
+C:\Users\axolo\source\repos\algoritmusssss\algoritmusssss\obj\Debug\net8.0\ref\algoritmusssss.dll
